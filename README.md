@@ -30,5 +30,5 @@
 
 #### Cancer drug response prediction
 - Presented at ISMB/ECCB 2021 special session Representation learning in biology
-- Presentation @ https://www.youtube.com/watch?v=z-xeO0Um67Y
+- Presentation available at https://www.youtube.com/watch?v=z-xeO0Um67Y
 - ![eccb](./eccb.png)
