@@ -10,11 +10,11 @@
 
 ### Projects
 #### [Polypharm Solutions](https://www.sanitasanalytica.com/polypharm-solutions)
-![poly](./polypharm.gif)
+- ![poly](./polypharm.gif)
 - Visit [Sanitas Analytica](https://www.sanitasanalytica.com/) for current developments
 
 #### [Drug Attrition Oracle](https://github.com/dionizijefa/Drug-Attrition-Oracle)
 - Models for predicting wether a drug will be withdrawn from the market. Part of the AI4EU-MODRAI challenge.
 - Visit at [dao.zel.irb.hr](dao.zel.irb.hr)
 - This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement 825619.
-![dao](./dao.gif)
+- ![dao](./dao.gif)
