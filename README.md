@@ -9,7 +9,7 @@
 - Pytorch, Angular, Flask, SQLAlchemy, Postgres
 
 ### Projects
-#### Polypharm Solutions MVP
+#### [Polypharm Solutions](https://www.sanitasanalytica.com/polypharm-solutions)
 ![til](./polypharm.gif)
 - Visit [Sanitas Analytica](https://www.sanitasanalytica.com/) for current developments
 
