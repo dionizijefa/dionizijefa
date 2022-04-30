@@ -21,4 +21,9 @@
 
 #### [Travel restrictions](https://www.whereisnormal.com/#/landing)
 - User ratings for pandemic restrictions at reviewed locations
-- - ![restrictions](./restrictions.gif)
+- ![restrictions](./restrictions.gif)
+
+#### Trail cam segmentation
+- Developed a quantized instance segmentation model using trail cam images (deer, roe deer, wild boar, fox)
+- Using manually labeled proprietary both night and daytime data
+- ![segmentation](./segmentation.jpg)
