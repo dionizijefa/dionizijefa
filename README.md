@@ -27,8 +27,3 @@
 - Developed a quantized instance segmentation model using trail cam images (deer, roe deer, wild boar, fox)
 - Using manually labeled proprietary, both night and daytime data
 - ![segmentation](./segmentation.jpg)
-
-#### Cancer drug response prediction
-- Presented at ISMB/ECCB 2021 special session Representation learning in biology
-- Presentation available at https://www.youtube.com/watch?v=z-xeO0Um67Y
-- ![eccb](./eccb.png)
