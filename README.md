@@ -18,3 +18,7 @@
 - Visit at [dao.zel.irb.hr](dao.zel.irb.hr)
 - This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement 825619.
 - ![dao](./dao.gif)
+
+#### [Travel restrictions](https://www.whereisnormal.com/#/landing)
+- User ratings for pandemic restrictions at reviewed locations
+- - ![restrictions](./restrictions.gif)
