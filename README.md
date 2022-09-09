@@ -11,7 +11,7 @@
 ### Projects
 #### [Polypharm Solutions](https://www.sanitasanalytica.com/polypharm-solutions)
 - ![poly](./polypharm_new.gif)
-- Visit [Sanitas Analytica](https://www.sanitasanalytica.com/) for current developments
+- Visit [Sanitas Analytica](https://polypharm.netlify.app) for current developments
 
 #### [Drug Attrition Oracle](https://github.com/dionizijefa/Drug-Attrition-Oracle)
 - Models for predicting wether a drug will be withdrawn from the market. Part of the AI4EU-MODRAI challenge.
