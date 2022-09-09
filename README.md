@@ -10,7 +10,7 @@
 
 ### Projects
 #### [Polypharm Solutions](https://www.sanitasanalytica.com/polypharm-solutions)
-- ![poly](./polyphar.gif)
+- ![poly](./polypharm.gif)
 - Visit [Sanitas Analytica](https://www.sanitasanalytica.com/) for current developments
 
 #### [Drug Attrition Oracle](https://github.com/dionizijefa/Drug-Attrition-Oracle)
