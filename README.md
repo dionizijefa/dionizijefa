@@ -8,9 +8,9 @@
 - Pytorch, Angular, Flask, SQLAlchemy, Postgres
 
 ### Projects
-#### [Polypharm Solutions](https://www.sanitasanalytica.com/polypharm-solutions)
+#### [Polypharm Solutions](https://www.polypharm.solutions)
 - ![poly](./polypharm_demo_latest.gif)
-- Visit [Sanitas Analytica](https://polypharm.netlify.app) for current developments
+- Visit [Sanitas Analytica](app.polypharm.solutions) for current developments
 
 #### [Drug Attrition Oracle](https://github.com/dionizijefa/Drug-Attrition-Oracle)
 - Models for predicting wether a drug will be withdrawn from the market. Part of the AI4EU-MODRAI challenge.
