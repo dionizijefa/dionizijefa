@@ -8,7 +8,7 @@
 - Pytorch, Angular, Flask, SQLAlchemy, Postgres
 
 ### Projects
-#### [Polypharm Solutions](app.polypharm.solutions)
+#### [Polypharm Solutions](https://app.polypharm.solutions)
 - ![poly](./polypharm_demo_latest.gif)
 - Visit [Sanitas Analytica](https://www.polypharm.solutions) for current developments
 
