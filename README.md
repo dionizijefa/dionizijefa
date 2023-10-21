@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Doing fullstack dev + AI/Stats at [Sanitas Analytica](https://www.sanitasanalytica.com/)
+- Doing fullstack dev + AI/Stats at [Digacon Software](https://digacon-software.com/en/)
 - Previously researched ML in pharmacogenomics at Ruđer Bošković Institute - Machine Learning Lab
 - Studied chemical engineering
 
