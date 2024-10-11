@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Doing dev at [Digacon Software](https://digacon-software.com/en/)
+- Dev at [Digacon Software](https://digacon-software.com/en/)
 - Previously researched ML in pharmacogenomics at Ruđer Bošković Institute - Machine Learning Lab
 - Studied chemical engineering
 
